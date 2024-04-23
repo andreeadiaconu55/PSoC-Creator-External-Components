@@ -28,3 +28,8 @@ This project's purpose is the creation of a new component in PSoC Creator, a 3bi
 
 ### Connecting the pins
 ![pins](https://github.com/andreeadiaconu55/PSoC-Creator-External-Components/assets/132846833/eb71aa88-0425-4a45-8035-345954e15325)
+
+## Additional  component
+There are also a counter on 4 bits and a component that has two enteries (Min, Max) and generates four exits, configurated as follows:
+
+![MinMax](https://github.com/andreeadiaconu55/PSoC-Creator-External-Components/assets/132846833/546dbadc-4ed5-4a4d-9acf-f0ea9c693d97)
