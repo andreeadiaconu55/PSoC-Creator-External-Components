@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Laborator_7\Design01">
+<ExpandedNodeIds>
+<v>Laborator_7</v>
+<v>Laborator_7\Design01</v>
+<v>Laborator_7\Design01\TopDesign</v>
+<v>Laborator_7\Design01\Design01.cydwr</v>
+<v>Laborator_7\Design01\Design01.cydwr\Pins</v>
+<v>Laborator_7\Design01\Design01.cydwr\Analog</v>
+<v>Laborator_7\Design01\Design01.cydwr\Clocks</v>
+<v>Laborator_7\Design01\Design01.cydwr\Interrupts</v>
+<v>Laborator_7\Design01\Design01.cydwr\DMA</v>
+<v>Laborator_7\Design01\Design01.cydwr\System</v>
+<v>Laborator_7\Design01\Design01.cydwr\Directives</v>
+<v>Laborator_7\Design01\Design01.cydwr\Flash Security</v>
+<v>Laborator_7\Design01\Design01.cydwr\EEPROM</v>
+<v>Laborator_7\Design01\Header Files</v>
+<v>Laborator_7\Design01\Header Files\cyapicallbacks.h</v>
+<v>Laborator_7\Design01\Source Files</v>
+<v>Laborator_7\Design01\Source Files\main.c</v>
+<v>Laborator_7\Design01\Generated_Source</v>
+<v>Laborator_7\Design01\Generated_Source\PSoC3</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Laborator_7</v>
+<v>Laborator_7\Design01</v>
+<v>Laborator_7\Design01\TopDesign</v>
+<v>Laborator_7\Design01\Design01.cydwr</v>
+<v>Laborator_7\Design01\Design01.cydwr\Pins</v>
+<v>Laborator_7\Design01\Design01.cydwr\Analog</v>
+<v>Laborator_7\Design01\Design01.cydwr\Clocks</v>
+<v>Laborator_7\Design01\Design01.cydwr\Interrupts</v>
+<v>Laborator_7\Design01\Design01.cydwr\DMA</v>
+<v>Laborator_7\Design01\Design01.cydwr\System</v>
+<v>Laborator_7\Design01\Design01.cydwr\Directives</v>
+<v>Laborator_7\Design01\Design01.cydwr\Flash Security</v>
+<v>Laborator_7\Design01\Design01.cydwr\EEPROM</v>
+<v>Laborator_7\Design01\Header Files</v>
+<v>Laborator_7\Design01\Header Files\cyapicallbacks.h</v>
+<v>Laborator_7\Design01\Source Files</v>
+<v>Laborator_7\Design01\Source Files\main.c</v>
+<v>Laborator_7\Design01\Generated_Source</v>
+<v>Laborator_7\Design01\Generated_Source\PSoC3</v>
+<v>Laborator_7\Design01\Generated_Source\PSoC3\Clock_1</v>
+<v>Laborator_7\Design01\Generated_Source\PSoC3\cy_boot</v>
+<v>Laborator_7\Design01\Generated_Source\PSoC3\Em_EEPROM_Dynamic</v>
+<v>Laborator_7\Design01\Generated_Source\PSoC3\LED1</v>
+<v>Laborator_7\Design01\Generated_Source\PSoC3\LED2</v>
+<v>Laborator_7\Design01\Generated_Source\PSoC3\LED3</v>
+<v>Laborator_7\Design01\Generated_Source\PSoC3\SW2</v>
+<v>Laborator_7\Design01\Generated_Source\PSoC3\SW3</v>
+<v>Laborator_7\Design01\Generated_Source\PSoC3\cycodeshareexport.ld</v>
+<v>Laborator_7\Design01\Generated_Source\PSoC3\cycodeshareimport.ld</v>
+<v>Laborator_7\Design01\Generated_Source\PSoC3\cycodeshareimport.scat</v>
+<v>Laborator_7\Design01\Generated_Source\PSoC3\cydevice.h</v>
+<v>Laborator_7\Design01\Generated_Source\PSoC3\cydevice_trm.h</v>
+<v>Laborator_7\Design01\Generated_Source\PSoC3\cydevicekeil.inc</v>
+<v>Laborator_7\Design01\Generated_Source\PSoC3\cydevicekeil_trm.inc</v>
+<v>Laborator_7\Design01\Generated_Source\PSoC3\cydisabledsheets.h</v>
+<v>Laborator_7\Design01\Generated_Source\PSoC3\cyfitter.h</v>
+<v>Laborator_7\Design01\Generated_Source\PSoC3\cyfitter_cfg.c</v>
+<v>Laborator_7\Design01\Generated_Source\PSoC3\cyfitter_cfg.h</v>
+<v>Laborator_7\Design01\Generated_Source\PSoC3\cyfitterkeil.inc</v>
+<v>Laborator_7\Design01\Generated_Source\PSoC3\project.h</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Laborator_7\Design01">
+<ExpandedNodeIds>
+<v>Laborator_7</v>
+<v>Laborator_7\Design01</v>
+<v>Laborator_7\Design01\numarator_3</v>
+<v>Laborator_7\Design01\numarator_3\numarator_3.cysch</v>
+<v>Laborator_7\Design01\numarator_3\numarator_3.cysym</v>
+<v>Laborator_7\Design01\TopDesign</v>
+<v>Laborator_7\Design01\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Laborator_7</v>
+<v>Laborator_7\Design01</v>
+<v>Laborator_7\Design01\numarator_3</v>
+<v>Laborator_7\Design01\numarator_3\numarator_3.cysch</v>
+<v>Laborator_7\Design01\numarator_3\numarator_3.cysym</v>
+<v>Laborator_7\Design01\TopDesign</v>
+<v>Laborator_7\Design01\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Laborator_7</v>
+<v>Laborator_7\Design01</v>
+<v>Laborator_7\Design01\DP8051</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\Clock_1.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\CyBootAsmKeil.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\CyDmac.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\CyFlash.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\CyLib.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\cymem.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\cyPm.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\CySpc.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\cyutils.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\KeilStart.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\LED1.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\LED2.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\LED3.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\main.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\SW2.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\SW3.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Design01.elf</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Design01.hex</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Design01.map</v>
+<v>Laborator_7\Design01\Design01.gpdsc</v>
+<v>Laborator_7\Design01\Design01.rpt</v>
+<v>Laborator_7\Design01\Design01_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Laborator_7</v>
+<v>Laborator_7\Design01</v>
+<v>Laborator_7\Design01\DP8051</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\Clock_1.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\CyBootAsmKeil.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\CyDmac.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\CyFlash.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\CyLib.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\cymem.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\cyPm.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\CySpc.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\cyutils.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\KeilStart.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\LED1.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\LED2.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\LED3.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\main.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\SW2.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Listing Files\SW3.lst</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Design01.elf</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Design01.hex</v>
+<v>Laborator_7\Design01\DP8051\DP8051_Keil_951\Debug\Design01.map</v>
+<v>Laborator_7\Design01\Design01.gpdsc</v>
+<v>Laborator_7\Design01\Design01.rpt</v>
+<v>Laborator_7\Design01\Design01_timing.html</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Laborator_7</v>
+<v>Laborator_7\Design01</v>
+<v>Laborator_7\Design01\PSoC 3 Architecture TRM</v>
+<v>Laborator_7\Design01\CY8C38 Family Datasheet</v>
+<v>Laborator_7\Design01\System Reference Guides</v>
+<v>Laborator_7\Design01\System Reference Guides\cy_boot_v6_0</v>
+<v>Laborator_7\Design01\cy_clock_v2_20.pdf</v>
+<v>Laborator_7\Design01\cy_pins_v2_20</v>
+<v>Laborator_7\Design01\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Laborator_7\Design01\cydff_v1_30.pdf</v>
+<v>Laborator_7\Design01\not_v1_0</v>
+<v>Laborator_7\Design01\not_v1_0\not_v1_0.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Laborator_7</v>
+<v>Laborator_7\Design01</v>
+<v>Laborator_7\Design01\PSoC 3 Architecture TRM</v>
+<v>Laborator_7\Design01\CY8C38 Family Datasheet</v>
+<v>Laborator_7\Design01\System Reference Guides</v>
+<v>Laborator_7\Design01\System Reference Guides\cy_boot_v6_0</v>
+<v>Laborator_7\Design01\cy_clock_v2_20.pdf</v>
+<v>Laborator_7\Design01\cy_pins_v2_20</v>
+<v>Laborator_7\Design01\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Laborator_7\Design01\cydff_v1_30.pdf</v>
+<v>Laborator_7\Design01\not_v1_0</v>
+<v>Laborator_7\Design01\not_v1_0\not_v1_0.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\Design01.cydsn\TopDesign\TopDesign.cysch" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="613, 742" SelectedTabbedMdiWindow="53c98e0c-3c98-40b7-b48d-6e22f848ccfa"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="59556cf2-e25c-49b0-a0a0-3a70afa9ba46" /><DocumentWindow Key="C:\Users\Andreea\OneDrive\Desktop\ASDN\Laborator_7\Design01.cydsn\TopDesign\TopDesign.cysch" Guid="53c98e0c-3c98-40b7-b48d-6e22f848ccfa" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
